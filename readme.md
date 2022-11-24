@@ -1,8 +1,8 @@
-# 自动化运维
+# 在线客服
 
 ## 应用简介
 
-    be/app-ops 自动化管理CDN证书
+    be/app-kf 在线客服系统
 
 
 ## 如何安装
@@ -11,6 +11,6 @@
 
     composer create-project be/new
 
-### 2 安装 be/app-ops
+### 2 安装 be/app-kf
 
-    composer require be/app-ops
+    composer require be/app-kf
