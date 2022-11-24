@@ -1,0 +1,25 @@
+{
+  "name": "be/app-kf",
+  "type": "library",
+  "description": "在线客服",
+  "keywords": [
+    "kf",
+    "在线客服"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "1024i team",
+      "email": "1024i@1024i.com",
+      "homepage": "https://www.1024i.com/team"
+    }
+  ],
+  "require": {
+    "be/be": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Be\\App\\Kf\\": "src/"
+    }
+  }
+}
